@@ -9,7 +9,7 @@ import {
   MagnifyingGlassIcon,
   UserIcon,
 } from "@heroicons/react/24/outline/index";
-import HomeIcon from "./assets/icon/home.svg";
+import HomeIcon from "./assets/icon/homeicon.svg";
 import Library from "./assets/icon/library.svg";
 
 const App = () => {
