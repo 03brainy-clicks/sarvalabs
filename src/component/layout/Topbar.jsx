@@ -5,7 +5,7 @@ import Dropdown from "../../assets/icon/dropdown.svg";
 
 const Topbar = () => {
   return (
-    <div className=" py-3 flex gap-6 px-7">
+    <div className=" py-3 flex gap-6 sm:px-7 px-4">
       <div className="flex gap-3 items-center">
         <img src={Back} alt="back" />
         <img src={Forward} alt="forward" />
@@ -15,16 +15,16 @@ const Topbar = () => {
         <input
           type="text"
           placeholder="Artists, songs or podcasts"
-          className="text-[0.625rem] placeholder:text-[#777777] flex-1 outline-none"
+          className="text-[0.625rem] w-full placeholder:text-[#777777] flex-1 outline-none"
         />
       </div>
       <div className="flex gap-1 items-center ml-auto">
         <img
           src="https://randomuser.me/api/portraits/men/32.jpg"
           alt="avatar"
-          className="w-4 h-4 rounded-full"
+          className="md:w-4 md:h-4 h-6 w-6 rounded-full"
         />
-        <div className="flex gap-1 items-center">
+        <div className="md:flex gap-1 items-center hidden">
           <span className="text-[0.625rem] text-textPrimary">Cody Fisher</span>
           <img src={Dropdown} alt="dropdown" />
         </div>

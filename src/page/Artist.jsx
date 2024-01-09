@@ -9,10 +9,10 @@ import AlbumCard from "../component/cards/AlbumCard";
 
 const LikedSongs = () => {
   return (
-    <div className="flex-1">
+    <div className="flex-1 lg:block hidden">
       <h3 className="text-xl font-bold text-textPrimary mb-3">Liked Songs</h3>
       <div className="flex gap-2 items-center">
-        <div className="relative flex w-16">
+        <div className="relative flex min-w-16">
           <span className="absolute h-6 w-6 rounded-full bg-[#1dba54] flex items-center justify-center border border-black bottom-0 right-0">
             <HeartIcon className="w-5 h-5 text-textPrimary" />
           </span>
@@ -38,11 +38,11 @@ const ArtistHero = () => {
     <div className="bg-white bg-opacity-10 ">
       {" "}
       <Topbar />
-      <div className="flex items-center gap-4 py-5 px-7 pt-14">
+      <div className="flex items-center gap-4 py-5 sm:px-7  p-5 md:pt-14">
         <img
           src="https://randomuser.me/api/portraits/men/11.jpg"
           alt=""
-          className="w-40 h-40 rounded-full"
+          className="md:w-40 md:h-40 h-30 w-30 rounded-full"
         />
         <div>
           <div className="flex gap-2 items-center">
@@ -51,7 +51,7 @@ const ArtistHero = () => {
               Verified Artist
             </span>
           </div>
-          <h1 className="font-extrabold text-[5rem] text-textPrimary leading-[6rem]">
+          <h1 className="font-extrabold md:text-[5rem] sm:text-6xl text-4xl text-textPrimary sm:leading-[6rem]">
             Bruno Mars
           </h1>
           <div>
@@ -68,7 +68,7 @@ const ArtistHero = () => {
 const PlayList = () => {
   const [songs] = useState(List.playlist);
   return (
-    <div className="w-2/3">
+    <div className="lg:w-2/3 w-full">
       <h3 className="text-xl font-bold text-textPrimary mb-3">Popular</h3>
       <div className="space-y-3  mb-6">
         {songs.map((song) => {
@@ -100,7 +100,7 @@ const Artist = () => {
   return (
     <div className="overflow-hidden overflow-y-auto h-full flex flex-col">
       <ArtistHero />
-      <div className="h-full px-7 py-4 space-y-6 flex-1 overflow-hidden overflow-y-auto">
+      <div className="h-full sm:px-7 py-4 p-5 space-y-6 flex-1 overflow-hidden overflow-y-auto">
         <div className="flex gap-6 items-center">
           <img src={Play} alt="" className="w-14 h-14 cursor-pointer" />
           <button className="text-[.625rem] py-2 cursor-pointer px-6 rounded border border-textPrimary text-textPrimary">
