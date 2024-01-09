@@ -15,7 +15,7 @@ const Player = () => {
       <div className=" bg-secondary w-full px-3  md:py-4 py-4  flex items-center justify-between border-t  border-[#535353]">
         <div className="flex gap-2 items-center ">
           <img
-            src="src/assets/albums/lounge.png"
+            src="https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/lounge.png"
             alt="song"
             className="w-12 h-12 "
           />
