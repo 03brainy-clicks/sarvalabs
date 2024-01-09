@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: Circular Std;
+  font-family: Circular Std, Inter, Poppins;
   padding: 0px;
   margin: 0px;
   background-color: #191414;

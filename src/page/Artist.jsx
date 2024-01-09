@@ -84,12 +84,14 @@ const PopularReleases = () => {
   const [albums] = useState(List.albums);
   return (
     <>
-    <h3 className="text-xl font-bold text-textPrimary mb-3">Popular releases</h3>
-     <div className="flex overflow-x-auto w-full gap-6">
-     {albums.map((album) => {
-        return <AlbumCard album={album} key={album.id} />;
-      })}
-     </div>
+      <h3 className="text-xl font-bold text-textPrimary mb-3">
+        Popular releases
+      </h3>
+      <div className="flex overflow-x-auto w-full gap-6">
+        {albums.map((album) => {
+          return <AlbumCard album={album} key={album.id} />;
+        })}
+      </div>
     </>
   );
 };
