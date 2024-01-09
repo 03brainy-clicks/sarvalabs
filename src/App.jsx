@@ -9,7 +9,7 @@ import {
   MagnifyingGlassIcon,
   UserIcon,
 } from "@heroicons/react/24/outline/index";
-import HomeIcon from "./assets/icon/homeicon.svg";
+import HomeIcon from "./assets/icon/homeIcon.svg";
 import Library from "./assets/icon/library.svg";
 
 const App = () => {
@@ -42,7 +42,7 @@ const App = () => {
       <Player />
       <div className="menu p-5 bg-secondary md:hidden flex sm:justify-center justify-between sm:gap-20 ">
         <div className=" text-textSecondary cursor-pointer">
-          <img src={HomeIcon} className="w-5 h-5  mx-auto " />
+          <img src={HomeIcon} className="w-5 h-5  mx-auto " alt="home" />
           <p className="text-[.5rem] text-center ">Home</p>
         </div>
         <div className=" text-textPrimary cursor-pointer">
@@ -50,7 +50,7 @@ const App = () => {
           <p className="text-[.5rem] text-center ">Search</p>
         </div>
         <div className=" text-textSecondary cursor-pointer">
-          <img src={Library} className="w-5 h-5  mx-auto" />
+          <img src={Library} className="w-5 h-5  mx-auto" alt="library" />
           <p className="text-[.5rem] text-center ">Library</p>
         </div>
         <div className=" text-textSecondary cursor-pointer">
