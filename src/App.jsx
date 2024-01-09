@@ -11,6 +11,7 @@ import {
 } from "@heroicons/react/24/outline/index";
 import HomeIcon from "./assets/icon/home.svg";
 import Library from "./assets/icon/library.svg";
+
 const App = () => {
   return (
     <div className="h-screen w-screen overflow-hidden flex flex-col ">
