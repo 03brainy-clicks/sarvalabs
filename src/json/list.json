@@ -238,31 +238,31 @@
     {
       "id": "01",
       "genre": "Hip Hop",
-      "album": "src/assets/albums/hiphop.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/hiphop.png",
       "color": "#e8105b"
     },
     {
       "id": "02",
       "genre": "Electronic",
-      "album": "src/assets/albums/electronic.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/electronic.png",
       "color": "#55a891"
     },
     {
       "id": "03",
       "genre": "Alternative",
-      "album": "src/assets/albums/alternative.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/alternative.png",
       "color": "#f037a5"
     },
     {
       "id": "04",
       "genre": "Retro",
-      "album": "src/assets/albums/retro.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/retro.png",
       "color": "#477d95"
     },
     {
       "id": "05",
       "genre": "Funk",
-      "album": "src/assets/albums/funk.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/funk.png",
       "color": "#e13400"
     }
   ],
@@ -271,73 +271,73 @@
     {
       "id": "01",
       "category": "Lounge",
-      "album": "src/assets/albums/lounge.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/lounge.png",
       "color": "#5e275e"
     },
     {
       "id": "02",
       "category": "Blues",
-      "album": "src/assets/albums/blues.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/blues.png",
       "color": "#f06d06"
     },
     {
       "id": "03",
       "category": "Funk",
-      "album": "src/assets/albums/funk.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/funk.png",
       "color": "#00ff00"
     },
     {
       "id": "04",
       "category": "Retro",
-      "album": "src/assets/albums/retro.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/retro.png",
       "color": "#ff4500"
     },
     {
       "id": "05",
       "category": "Latin",
-      "album": "src/assets/albums/latin.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/latin.png",
       "color": "#ff00ff"
     },
     {
       "id": "06",
       "category": "Jazz",
-      "album": "src/assets/albums/jazz.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/jazz.png",
       "color": "#ffcc00"
     },
     {
       "id": "07",
       "category": "Ambient",
-      "album": "src/assets/albums/ambient.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/ambient.png",
       "color": "#00ffff"
     },
     {
       "id": "08",
       "category": "Cinematic",
-      "album": "src/assets/albums/cinematic.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/cinematic.png",
       "color": "#ff69b4"
     },
     {
       "id": "09",
       "category": "Fantasy",
-      "album": "src/assets/albums/fantasy.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/fantasy.png",
       "color": "#9400d3"
     },
     {
       "id": "10",
       "category": "Pop",
-      "album": "src/assets/albums/pop.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/pop.png",
       "color": "#ff0000"
     },
     {
       "id": "11",
       "category": "World",
-      "album": "src/assets/albums/world.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/world.png",
       "color": "#00ff7f"
     },
     {
       "id": "12",
       "category": "Folk",
-      "album": "src/assets/albums/folk.png",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/folk.png",
       "color": "#8b4513"
     }
   ],
@@ -347,99 +347,99 @@
       "song": "Freak In Me",
       "plays": "6,136,935",
       "time": "03:17",
-      "image": "src/assets/albums/freakme.png"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/freakme.png"
     },
     {
       "id": "2",
       "song": "Another Song",
       "plays": "4,589,201",
       "time": "02:45",
-      "image": "src/assets/albums/bomt.png"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/bomt.png"
     },
     {
       "id": "3",
       "song": "Lost in Melody",
       "plays": "8,752,104",
       "time": "04:02",
-      "image": "src/assets/albums/smh.png"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/smh.png"
     },
     {
       "id": "4",
       "song": "Eternal Harmony",
       "plays": "3,210,567",
       "time": "03:55",
-      "image": "src/assets/albums/bpowder.png"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/bpowder.png"
     },
     {
       "id": "5",
       "song": "Midnight Vibes",
       "plays": "5,862,320",
       "time": "03:28",
-      "image": "src/assets/albums/u&m.png"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/u&m.png"
     }
-  ]
-  ,
-  "albums":
-  [
-      {
-          "id": "01",
-          "genre": "Hip Hop",
-          "album": "src/assets/albums/hiphop.png",
-          "song": "Sicko Mode"
-      },
-      {
-          "id": "02",
-          "genre": "Electronic",
-          "album": "src/assets/albums/electronic.png",
-          "song": "Strobe"
-      },
-      {
-          "id": "03",
-          "genre": "Alternative",
-          "album": "src/assets/albums/alternative.png",
-          "song": "Yellow"
-      },
-      {
-          "id": "04",
-          "genre": "Retro",
-          "album": "src/assets/albums/retro.png",
-          "song": "Billie Jean"
-      },
-      {
-          "id": "05",
-          "genre": "Funk",
-          "album": "src/assets/albums/funk.png",
-          "song": "Uptown Funk"
-      },
-      {
-          "id": "06",
-          "genre": "latin",
-          "album": "src/assets/albums/latin.png",
-          "song": "Bohemian Rhapsody"
-      },
-      {
-          "id": "07",
-          "genre": "Pop",
-          "album": "src/assets/albums/pop.png",
-          "song": "Shape of You"
-      },
-      {
-          "id": "08",
-          "genre": "world",
-          "album": "src/assets/albums/world.png",
-          "song": "Wagon Wheel"
-      },
-      {
-          "id": "09",
-          "genre": "Jazz",
-          "album": "src/assets/albums/jazz.png",
-          "song": "Take Five"
-      },
-      {
-          "id": "10",
-          "genre": "Blues",
-          "album": "src/assets/albums/blues.png",
-          "song": "The Thrill Is Gone"
-      }
-  ]
+  ],
+
+  "albums": [
+    {
+      "id": "01",
+      "genre": "Hip Hop",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/hiphop.png",
+      "song": "Sicko Mode"
+    },
+    {
+      "id": "02",
+      "genre": "Electronic",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/electronic.png",
+      "song": "Strobe"
+    },
+    {
+      "id": "03",
+      "genre": "Alternative",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/alternative.png",
+      "song": "Yellow"
+    },
+    {
+      "id": "04",
+      "genre": "Retro",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/retro.png",
+      "song": "Billie Jean"
+    },
+    {
+      "id": "05",
+      "genre": "Funk",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/funk.png",
+      "song": "Uptown Funk"
+    },
+    {
+      "id": "06",
+      "genre": "Latin",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/latin.png",
+      "song": "Bohemian Rhapsody"
+    },
+    {
+      "id": "07",
+      "genre": "Pop",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/pop.png",
+      "song": "Shape of You"
+    },
+    {
+      "id": "08",
+      "genre": "World",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/world.png",
+      "song": "Wagon Wheel"
+    },
+    {
+      "id": "09",
+      "genre": "Jazz",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/jazz.png",
+      "song": "Take Five"
+    },
+    {
+      "id": "10",
+      "genre": "Blues",
+      "album": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/blues.png",
+      "song": "The Thrill Is Gone"
+    }
+]
+
 }
