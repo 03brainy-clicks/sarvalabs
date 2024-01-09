@@ -2,13 +2,14 @@ import Forward from "../../assets/icon/forward.svg";
 import Back from "../../assets/icon/back.svg";
 import MagGlass from "../../assets/icon/magGlass.svg";
 import Dropdown from "../../assets/icon/dropdown.svg";
+import { Link } from "react-router-dom";
 
 const Topbar = () => {
   return (
     <div className=" py-3 flex gap-6 sm:px-7 px-4">
       <div className="flex gap-3 items-center">
-        <img src={Back} alt="back" />
-        <img src={Forward} alt="forward" />
+       <Link to={"/"}> <img src={Back} alt="back" /></Link>
+       <Link to={"/artist"}> <img src={Forward} alt="forward" /></Link>
       </div>
       <div className="bg-white flex gap-2 py-[0.375rem] px-2 rounded-full w-60 items-center">
         <img src={MagGlass} alt="mag" className="w-3 h-3" />

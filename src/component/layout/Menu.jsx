@@ -1,17 +1,33 @@
-
+import Liked from "../../assets/icon/liked.svg";
+import CreatePlaylist from "../../assets/icon/createPlaylist.svg";
+import HomeIcon from "../../assets/icon/homeIcon.svg";
+import Library from "../../assets/icon/library.svg";
+import { MagnifyingGlassIcon } from "@heroicons/react/24/outline/index";
 const Menu = () => {
   return (
     <>
-      <div className="text-textSecondary gap-1 text-xs font-bold leading-3 ">
-        <div className="py-1 px-3 ">Home</div>
-        <div className="py-1 px-3  bg-secondary02 text-textPrimary rounded">
+      <div className="text-textSecondary gap-1 text-xs font-bold leading-3 space-y-1">
+        <div className="py-1 px-3  hover:bg-secondary cursor-pointer rounded flex items-center gap-2">
+          <img src={HomeIcon} alt="" />
+          Home
+        </div>
+        <div className="py-1 px-3  bg-secondary02 text-textPrimary rounded cursor-pointer flex items-center gap-2">
+          <MagnifyingGlassIcon className="w-4 h-4 " />
           Search
         </div>
-        <div className="py-1 px-3 ">Your Library</div>
+        <div className="py-1 px-3 hover:bg-secondary cursor-pointer rounded flex items-center gap-2">
+          <img src={Library} alt="" /> Your Library
+        </div>
       </div>
-      <div className="text-textSecondary gap-1 text-xs font-bold leading-3 ">
-        <div className="py-1 px-3">Create Playlist</div>
-        <div className="py-1 px-3">Liked Songs</div>
+      <div className="text-textSecondary gap-1 text-xs font-bold leading-3 space-y-1">
+        <div className="py-1 px-3 cursor-pointer rounded hover:bg-secondary flex items-center gap-2">
+          {" "}
+          <img src={CreatePlaylist} alt="" />
+          Create Playlist
+        </div>
+        <div className="py-1 px-3 cursor-pointer rounded hover:bg-secondary flex items-center gap-2">
+          <img src={Liked} alt="liked" /> Liked Songs
+        </div>
       </div>
     </>
   );
