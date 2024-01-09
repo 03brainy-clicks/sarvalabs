@@ -1,0 +1,445 @@
+{
+  "musicCategories": [
+    { "id": "pop_1", "category": "Pop" },
+    { "id": "rock_2", "category": "Rock" },
+    { "id": "electronic_3", "category": "Electronic" },
+    { "id": "hiphop_4", "category": "Hip Hop" },
+    { "id": "jazz_5", "category": "Jazz" },
+    { "id": "classical_6", "category": "Classical" },
+    { "id": "country_7", "category": "Country" },
+    { "id": "rnb_8", "category": "R&B" },
+    { "id": "reggae_9", "category": "Reggae" },
+    { "id": "blues_10", "category": "Blues" },
+    { "id": "folk_11", "category": "Folk" },
+    { "id": "indie_12", "category": "Indie" },
+    { "id": "metal_13", "category": "Metal" },
+    { "id": "punk_14", "category": "Punk" },
+    { "id": "soul_15", "category": "Soul" },
+    { "id": "funk_16", "category": "Funk" },
+    { "id": "disco_17", "category": "Disco" },
+    { "id": "alternative_18", "category": "Alternative" },
+    { "id": "latin_19", "category": "Latin" },
+    { "id": "world_20", "category": "World" },
+    { "id": "ambient_21", "category": "Ambient" },
+    { "id": "techno_22", "category": "Techno" },
+    { "id": "dubstep_23", "category": "Dubstep" },
+    { "id": "chillout_24", "category": "Chillout" },
+    { "id": "trap_25", "category": "Trap" },
+    { "id": "gospel_26", "category": "Gospel" },
+    { "id": "kpop_27", "category": "K-pop" },
+    { "id": "reggaeton_28", "category": "Reggaeton" },
+    { "id": "ska_29", "category": "Ska" },
+    { "id": "acoustic_30", "category": "Acoustic" },
+    { "id": "pop_31", "category": "Pop" },
+    { "id": "rock_32", "category": "Rock" },
+    { "id": "electronic_33", "category": "Electronic" },
+    { "id": "hiphop_34", "category": "Hip Hop" },
+    { "id": "jazz_35", "category": "Jazz" },
+    { "id": "classical_36", "category": "Classical" },
+    { "id": "country_37", "category": "Country" },
+    { "id": "rnb_38", "category": "R&B" },
+    { "id": "reggae_39", "category": "Reggae" },
+    { "id": "blues_40", "category": "Blues" }
+  ],
+
+  "friendActivities": [
+    {
+      "name": "James Smith",
+      "song": "Blue Sky Serenade",
+      "singer": "AmericanaMelody",
+      "id": "1a2b3c4d5e6f",
+      "profilepicture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Emma Johnson",
+      "song": "Sunset Harmonies",
+      "singer": "WesternWhisper",
+      "id": "2b3c4d5e6f7a",
+      "profilepicture": "https://randomuser.me/api/portraits/women/2.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Michael Williams",
+      "song": "City Lights Symphony",
+      "singer": "UrbanGroove",
+      "id": "3c4d5e6f7a8b",
+      "profilepicture": "https://randomuser.me/api/portraits/men/3.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Olivia Brown",
+      "song": "Golden Gate Serendipity",
+      "singer": "BayAreaHarmony",
+      "id": "4d5e6f7a8b9c",
+      "profilepicture": "https://randomuser.me/api/portraits/women/4.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Liam Jones",
+      "song": "Pacific Breeze Ballad",
+      "singer": "CoastalCrooner",
+      "id": "5e6f7a8b9c1d",
+      "profilepicture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Ava Garcia",
+      "song": "Mountain Mist Melody",
+      "singer": "RockyTopTunes",
+      "id": "6f7a8b9c1d2e",
+      "profilepicture": "https://randomuser.me/api/portraits/women/6.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "William Davis",
+      "song": "Riverbank Romance",
+      "singer": "DeltaDreamer",
+      "id": "7a8b9c1d2e3f",
+      "profilepicture": "https://randomuser.me/api/portraits/men/7.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Sophia Rodriguez",
+      "song": "Desert Dunes Ditty",
+      "singer": "SouthwestSongbird",
+      "id": "8b9c1d2e3f4a",
+      "profilepicture": "https://randomuser.me/api/portraits/women/8.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Logan Martinez",
+      "song": "Lone Star Lullaby",
+      "singer": "TexasTwang",
+      "id": "9c1d2e3f4a5b",
+      "profilepicture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Evelyn Taylor",
+      "song": "Prairie Winds Waltz",
+      "singer": "HeartlandHarper",
+      "id": "1d2e3f4a5b6c",
+      "profilepicture": "https://randomuser.me/api/portraits/women/10.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Noah Anderson",
+      "song": "New York Nocturne",
+      "singer": "BigAppleBalladeer",
+      "id": "2e3f4a5b6c7d",
+      "profilepicture": "https://randomuser.me/api/portraits/men/11.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Isabella Thomas",
+      "song": "Empire State Elegy",
+      "singer": "ManhattanMelodies",
+      "id": "3f4a5b6c7d8e",
+      "profilepicture": "https://randomuser.me/api/portraits/women/12.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Mia Jackson",
+      "song": "Windy City Whistle",
+      "singer": "ChicagoChanteuse",
+      "id": "5b6c7d8e9f1a",
+      "profilepicture": "https://randomuser.me/api/portraits/women/14.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Ethan Thompson",
+      "song": "Grand Canyon Guitars",
+      "singer": "CanyonCrooner",
+      "id": "6c7d8e9f1a2b",
+      "profilepicture": "https://randomuser.me/api/portraits/men/15.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Amelia White",
+      "song": "Nashville Nostalgia",
+      "singer": "CountryCharm",
+      "id": "7d8e9f1a2b3c",
+      "profilepicture": "https://randomuser.me/api/portraits/women/16.jpg",
+      "profileIcon": "Disc"
+    },
+    {
+      "name": "Lucas Lee",
+      "song": "Golden Gate Groove",
+      "singer": "BayAreaBalladist",
+      "id": "8e9f1a2b3c4d",
+      "profilepicture": "https://randomuser.me/api/portraits/men/17.jpg",
+      "profileIcon": "Ring"
+    },
+    {
+      "name": "Jackson Turner",
+      "song": "Crescent City Croon",
+      "singer": "BigEasyElegist",
+      "id": "1a2b3c4d5e6f7a",
+      "profilepicture": "https://randomuser.me/api/portraits/men/19.jpg",
+      "profileIcon": "Ring"
+    }
+  ],
+
+  "artists": [
+    {
+      "id": "3f4d1b60-eb96-4c65-841a-1d4e236d15ef",
+      "name": "Adele",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": "aa50bce3-6880-4f18-b7cf-09b97c0b1ea0",
+      "name": "Ed Sheeran",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "cd7e57a9-bc6b-4d5e-a3d1-692cd7cfd3fc",
+      "name": "Beyoncé",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": "b0a98fc8-5dd6-42f4-90d3-eeeb1ad108d4",
+      "name": "John Legend",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": "925effe9-40c4-4cf1-a099-55a726a0a8a8",
+      "name": "Taylor Swift",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "id": "7b3196b1-2272-4e6e-80f1-f1a94f9067cd",
+      "name": "Justin Timberlake",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": "b1ec5e2a-16e5-40f5-922c-37e74d0342c0",
+      "name": "Ariana Grande",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+      "id": "a3621ce7-2ff1-4b3c-a2c2-cba3d368d2e8",
+      "name": "Bruno Mars",
+      "image": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+      "id": "098e2141-1b77-4a27-a4e1-8a5db810b808",
+      "name": "Lady Gaga",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": "7b7b2f85-3c32-40d7-9d34-17b9a93fc850",
+      "name": "John Mayer",
+      "image": "https://randomuser.me/api/portraits/men/13.jpg"
+    }
+  ],
+
+  "genres": [
+    {
+      "id": "01",
+      "genre": "Hip Hop",
+      "album": "src/assets/albums/hiphop.png",
+      "color": "#e8105b"
+    },
+    {
+      "id": "02",
+      "genre": "Electronic",
+      "album": "src/assets/albums/electronic.png",
+      "color": "#55a891"
+    },
+    {
+      "id": "03",
+      "genre": "Alternative",
+      "album": "src/assets/albums/alternative.png",
+      "color": "#f037a5"
+    },
+    {
+      "id": "04",
+      "genre": "Retro",
+      "album": "src/assets/albums/retro.png",
+      "color": "#477d95"
+    },
+    {
+      "id": "05",
+      "genre": "Funk",
+      "album": "src/assets/albums/funk.png",
+      "color": "#e13400"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": "01",
+      "category": "Lounge",
+      "album": "src/assets/albums/lounge.png",
+      "color": "#5e275e"
+    },
+    {
+      "id": "02",
+      "category": "Blues",
+      "album": "src/assets/albums/blues.png",
+      "color": "#f06d06"
+    },
+    {
+      "id": "03",
+      "category": "Funk",
+      "album": "src/assets/albums/funk.png",
+      "color": "#00ff00"
+    },
+    {
+      "id": "04",
+      "category": "Retro",
+      "album": "src/assets/albums/retro.png",
+      "color": "#ff4500"
+    },
+    {
+      "id": "05",
+      "category": "Latin",
+      "album": "src/assets/albums/latin.png",
+      "color": "#ff00ff"
+    },
+    {
+      "id": "06",
+      "category": "Jazz",
+      "album": "src/assets/albums/jazz.png",
+      "color": "#ffcc00"
+    },
+    {
+      "id": "07",
+      "category": "Ambient",
+      "album": "src/assets/albums/ambient.png",
+      "color": "#00ffff"
+    },
+    {
+      "id": "08",
+      "category": "Cinematic",
+      "album": "src/assets/albums/cinematic.png",
+      "color": "#ff69b4"
+    },
+    {
+      "id": "09",
+      "category": "Fantasy",
+      "album": "src/assets/albums/fantasy.png",
+      "color": "#9400d3"
+    },
+    {
+      "id": "10",
+      "category": "Pop",
+      "album": "src/assets/albums/pop.png",
+      "color": "#ff0000"
+    },
+    {
+      "id": "11",
+      "category": "World",
+      "album": "src/assets/albums/world.png",
+      "color": "#00ff7f"
+    },
+    {
+      "id": "12",
+      "category": "Folk",
+      "album": "src/assets/albums/folk.png",
+      "color": "#8b4513"
+    }
+  ],
+  "playlist": [
+    {
+      "id": "1",
+      "song": "Freak In Me",
+      "plays": "6,136,935",
+      "time": "03:17",
+      "image": "src/assets/albums/freakme.png"
+    },
+    {
+      "id": "2",
+      "song": "Another Song",
+      "plays": "4,589,201",
+      "time": "02:45",
+      "image": "src/assets/albums/bomt.png"
+    },
+    {
+      "id": "3",
+      "song": "Lost in Melody",
+      "plays": "8,752,104",
+      "time": "04:02",
+      "image": "src/assets/albums/smh.png"
+    },
+    {
+      "id": "4",
+      "song": "Eternal Harmony",
+      "plays": "3,210,567",
+      "time": "03:55",
+      "image": "src/assets/albums/bpowder.png"
+    },
+    {
+      "id": "5",
+      "song": "Midnight Vibes",
+      "plays": "5,862,320",
+      "time": "03:28",
+      "image": "src/assets/albums/u&m.png"
+    }
+  ]
+  ,
+  "albums":
+  [
+      {
+          "id": "01",
+          "genre": "Hip Hop",
+          "album": "src/assets/albums/hiphop.png",
+          "song": "Sicko Mode"
+      },
+      {
+          "id": "02",
+          "genre": "Electronic",
+          "album": "src/assets/albums/electronic.png",
+          "song": "Strobe"
+      },
+      {
+          "id": "03",
+          "genre": "Alternative",
+          "album": "src/assets/albums/alternative.png",
+          "song": "Yellow"
+      },
+      {
+          "id": "04",
+          "genre": "Retro",
+          "album": "src/assets/albums/retro.png",
+          "song": "Billie Jean"
+      },
+      {
+          "id": "05",
+          "genre": "Funk",
+          "album": "src/assets/albums/funk.png",
+          "song": "Uptown Funk"
+      },
+      {
+          "id": "06",
+          "genre": "latin",
+          "album": "src/assets/albums/latin.png",
+          "song": "Bohemian Rhapsody"
+      },
+      {
+          "id": "07",
+          "genre": "Pop",
+          "album": "src/assets/albums/pop.png",
+          "song": "Shape of You"
+      },
+      {
+          "id": "08",
+          "genre": "world",
+          "album": "src/assets/albums/world.png",
+          "song": "Wagon Wheel"
+      },
+      {
+          "id": "09",
+          "genre": "Jazz",
+          "album": "src/assets/albums/jazz.png",
+          "song": "Take Five"
+      },
+      {
+          "id": "10",
+          "genre": "Blues",
+          "album": "src/assets/albums/blues.png",
+          "song": "The Thrill Is Gone"
+      }
+  ]
+}
