@@ -1,4 +1,6 @@
+// SongCard component for rendering individual song details
 const SongCard = ({ song }) => {
+  // Render song details in a flex container
   return (
     <div className="md:px-5 flex gap-2 items-center hover:bg-secondary02 rounded animate">
       <span className="text-sm text-textSecondary">{song.id}</span>

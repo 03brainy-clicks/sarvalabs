@@ -1,39 +1,45 @@
+/* Import Inter font from Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+/* Use Tailwind CSS */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Set global styles for the body */
 body {
-  font-family: "Inter", sans-serif;
-  padding: 0px;
-  margin: 0px;
-  background-color: #191414;
+  font-family: "Inter", sans-serif; /* Set Inter font as the default font */
+  padding: 0;
+  margin: 0;
+  background-color: #191414; /* Set background color */
 }
 
+/* Apply box-sizing and scroll-behavior to all elements */
 * {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  @apply select-none;
+  @apply select-none; /* Apply the select-none utility from Tailwind CSS */
 }
 
-* ::-webkit-scrollbar {
+/* Style scrollbar */
+*::-webkit-scrollbar {
   width: 4px !important;
   height: 0px !important;
 }
 
-* ::-webkit-scrollbar-thumb {
+*::-webkit-scrollbar-thumb {
   background-color: #535353;
   border-radius: 5px;
   height: 1px;
   width: 1px;
 }
 
-* ::-webkit-scrollbar-track {
+*::-webkit-scrollbar-track {
   background-color: transparent;
   width: 1px;
 }
 
+/* Apply transition to elements with the 'animate' class */
 .animate {
   @apply transition-all duration-300;
 }

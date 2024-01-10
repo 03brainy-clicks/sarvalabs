@@ -9,15 +9,18 @@ import Previous from "../../assets/icon/previous.svg";
 import Next from "../../assets/icon/next.svg";
 import Repeat from "../../assets/icon/repeat.svg";
 
+// Player component for audio playback
 const Player = () => {
   return (
     <>
-      <div className=" bg-secondary w-full px-3  md:py-4 py-1 flex items-center justify-between border-t  border-[#535353]">
+      {/* Player Controls */}
+      <div className=" bg-secondary w-full px-3 md:py-4 py-1 flex items-center justify-between border-t border-[#535353]">
+        {/* Song information and controls */}
         <div className="flex gap-2 items-center ">
           <img
             src="https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/lounge.png"
             alt="song"
-            className="w-12 h-12 "
+            className="w-12 h-12"
           />
           <div>
             <p className="text-xs text-textPrimary">I Don&apos;t Know</p>
@@ -25,6 +28,7 @@ const Player = () => {
           </div>
           <HeartIcon className="w-4 h-4 text-textSecondary md:block hidden cursor-pointer" />
         </div>
+        {/* Playback controls */}
         <div className="md:block hidden">
           <div className="flex items-center justify-center gap-3 mb-3">
             <img src={Suffle} alt="" className="w-4 h-4 cursor-pointer" />
@@ -35,6 +39,7 @@ const Player = () => {
             <img src={Next} alt="" className="w-4 h-4 cursor-pointer" />
             <img src={Repeat} alt="" className="w-4 h-4 cursor-pointer" />
           </div>
+          {/* Playback progress */}
           <div className="flex gap-3 items-center">
             <span className="text-[.625rem] leading-3 text-textSecondary">
               1:00
@@ -47,6 +52,7 @@ const Player = () => {
             </span>
           </div>
         </div>
+        {/* Additional controls for larger screens */}
         <div className="md:flex gap-2 items-center hidden">
           <img
             src={ScreenSmall}
@@ -64,6 +70,7 @@ const Player = () => {
             className="w-4 h-4 cursor-pointer"
           />
         </div>
+        {/* Controls for smaller screens */}
         <div className="flex md:hidden gap-2 items-center">
           <img
             src={Screen}
@@ -74,6 +81,7 @@ const Player = () => {
           <PlayIcon className="w-6 h-6 text-textPrimary cursor-pointer" />
         </div>
       </div>
+      {/* Playback progress bar for smaller screens */}
       <div className="h-[.200rem] w-full rounded-full bg-[#777] md:hidden">
         <div className="rounded-full h-full w-1/4 bg-[#b2b2b2]"></div>
       </div>
