@@ -42,7 +42,7 @@ const ArtistHero = () => {
         <img
           src="https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-4.jpeg"
           alt=""
-          className="md:w-40 md:h-40 sm:h-30 sm:w-30 h-20 w-20 rounded-full"
+          className="md:w-40 md:h-40 w-28 h-28 rounded-full"
         />
         <div>
           <div className="flex gap-2 items-center">

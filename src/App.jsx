@@ -27,8 +27,8 @@ const App = () => {
           </Router>
         </div>
         {/* right sidebar */}
-        <div className="min-w-44 bg-primary h-full px-2 py-4 space-y-4 lg:block hidden">
-          <h5 className="text-sm font-bold text-textPrimary px-1 ">
+        <div className="min-w-44 bg-primary h-full py-4 space-y-4 lg:block hidden">
+          <h5 className="text-sm font-bold text-textPrimary px-3 ">
             Friends Activity
           </h5>
           <FriendsList />
