@@ -53,21 +53,25 @@ const Player = () => {
             alt="screen small  "
             className="cursor-pointer w-4 h-4"
           />
-          <img src={Screen} alt="screen " className="cursor-pointer w-4 h-4"  />
+          <img src={Screen} alt="screen " className="cursor-pointer w-4 h-4" />
           <img src={Speaker} alt="speaker " className="cursor-pointe w-4 h-4" />
           <div className=" w-16 h-1 rounded-full bg-[#777] cursor-pointer group ">
             <div className="w-2/3 rounded-full bg-[#b2b2b2] h-full group-hover:bg-white"></div>
           </div>
-          <img src={FullScreen} alt="full screen" className="w-4 h-4 cursor-pointer" />
+          <img
+            src={FullScreen}
+            alt="full screen"
+            className="w-4 h-4 cursor-pointer"
+          />
         </div>
         <div className="flex md:hidden gap-2 items-center">
           <img
             src={Screen}
             alt="screen small"
-            className="w-5 h-5 cursor-pointer"
+            className="w-6 h-6 cursor-pointer"
           />
-          <PlusCircleIcon className="w-5 h-5 text-textSecondary cursor-pointer" />
-          <PlayIcon className="w-5 h-5 text-textPrimary cursor-pointer" />
+          <PlusCircleIcon className="w-6 h-6 text-textSecondary cursor-pointer" />
+          <PlayIcon className="w-6 h-6 text-textPrimary cursor-pointer" />
         </div>
       </div>
       <div className="h-[.200rem] w-full rounded-full bg-[#777] md:hidden">
