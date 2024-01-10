@@ -40,9 +40,9 @@ const ArtistHero = () => {
       <Topbar />
       <div className="flex items-center gap-4 py-5 sm:px-7  p-5 md:pt-14">
         <img
-          src="https://randomuser.me/api/portraits/men/11.jpg"
+          src="https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-4.jpeg"
           alt=""
-          className="md:w-40 md:h-40 h-30 w-30 rounded-full"
+          className="md:w-40 md:h-40 sm:h-30 sm:w-30 h-20 w-20 rounded-full"
         />
         <div>
           <div className="flex gap-2 items-center">

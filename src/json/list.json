@@ -185,52 +185,52 @@
     {
       "id": "3f4d1b60-eb96-4c65-841a-1d4e236d15ef",
       "name": "Adele",
-      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/woman-1.jpeg"
     },
     {
       "id": "aa50bce3-6880-4f18-b7cf-09b97c0b1ea0",
       "name": "Ed Sheeran",
-      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-1.jpeg"
     },
     {
       "id": "cd7e57a9-bc6b-4d5e-a3d1-692cd7cfd3fc",
       "name": "Beyoncé",
-      "image": "https://randomuser.me/api/portraits/women/6.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/woman-2.jpeg"
     },
     {
       "id": "b0a98fc8-5dd6-42f4-90d3-eeeb1ad108d4",
       "name": "John Legend",
-      "image": "https://randomuser.me/api/portraits/men/7.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-2.jpeg"
     },
     {
       "id": "925effe9-40c4-4cf1-a099-55a726a0a8a8",
       "name": "Taylor Swift",
-      "image": "https://randomuser.me/api/portraits/women/8.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/woman-3.jpeg"
     },
     {
       "id": "7b3196b1-2272-4e6e-80f1-f1a94f9067cd",
       "name": "Justin Timberlake",
-      "image": "https://randomuser.me/api/portraits/men/9.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-3.jpeg"
     },
     {
       "id": "b1ec5e2a-16e5-40f5-922c-37e74d0342c0",
       "name": "Ariana Grande",
-      "image": "https://randomuser.me/api/portraits/women/10.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/woman-4.jpeg"
     },
     {
       "id": "a3621ce7-2ff1-4b3c-a2c2-cba3d368d2e8",
       "name": "Bruno Mars",
-      "image": "https://randomuser.me/api/portraits/men/11.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-4.jpeg"
     },
     {
       "id": "098e2141-1b77-4a27-a4e1-8a5db810b808",
       "name": "Lady Gaga",
-      "image": "https://randomuser.me/api/portraits/women/12.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/woman-5.jpeg"
     },
     {
       "id": "7b7b2f85-3c32-40d7-9d34-17b9a93fc850",
       "name": "John Mayer",
-      "image": "https://randomuser.me/api/portraits/men/13.jpg"
+      "image": "https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/responsive/src/assets/portrait/man-5.jpeg"
     }
   ],
 
