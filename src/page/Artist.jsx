@@ -75,7 +75,7 @@ const PlayList = () => {
           return <SongCard key={song.id} song={song} />;
         })}
       </div>
-      <span className="text-[.625rem] text-textPrimary">SEE MORE</span>
+      <span className="text-[.625rem] text-textPrimary animate hover:border-b pb-1 cursor-pointer">SEE MORE</span>
     </div>
   );
 };

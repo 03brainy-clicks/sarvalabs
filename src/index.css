@@ -1,9 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body {
-  font-family: Circular Std, Inter, Poppins;
+  font-family: "Inter", sans-serif;
   padding: 0px;
   margin: 0px;
   background-color: #191414;
@@ -31,3 +33,6 @@ body {
   width: 1px;
 }
 
+.animate {
+  @apply transition-all duration-300;
+}

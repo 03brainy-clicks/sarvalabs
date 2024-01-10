@@ -10,7 +10,10 @@ const FriendsList = () => {
     <div className="h-full overflow-hidden overflow-y-auto space-y-1 pb-5">
       {friendsList.map((friend) => {
         return (
-          <div className="flex gap-2 p-2 items-center" key={friend.id}>
+          <div
+            className="flex gap-2 p-2 items-center hover:bg-hover animate rounded-sm"
+            key={friend.id}
+          >
             <div className="w-9 h-9 rounded-full overflow-hidden">
               <img
                 src={friend.profilepicture}

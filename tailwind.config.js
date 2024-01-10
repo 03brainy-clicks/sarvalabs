@@ -7,6 +7,7 @@ export default {
         primary: "#000",
         secondary: "#191414",
         secondary02:"#333",
+        hover:'#1f1a1a',
         textPrimary:"#fff",
         textSecondary:"#b2b2b2",
         hr:"#B2B2B2",

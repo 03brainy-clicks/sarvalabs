@@ -1,6 +1,6 @@
 const SongCard = ({ song }) => {
   return (
-    <div className="px-5 flex gap-2 items-center">
+    <div className="px-5 flex gap-2 items-center hover:bg-secondary02 rounded animate">
       <span className="text-sm text-textSecondary">{song.id}</span>
       <img src={song.image} alt="" className="w-12 h-12" />
       <span className="text-sm text-textPrimary">{song.song}</span>

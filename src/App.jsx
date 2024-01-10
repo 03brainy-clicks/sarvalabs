@@ -40,22 +40,22 @@ const App = () => {
         </div>
       </div>
       <Player />
-      <div className="menu p-5 bg-secondary md:hidden flex sm:justify-center justify-between sm:gap-20 ">
+      <div className="menu py-3 bg-secondary md:hidden flex sm:justify-center justify-evenly sm:gap-20 gap-5">
         <div className=" text-textSecondary cursor-pointer">
           <img src={HomeIcon} className="w-5 h-5  mx-auto " alt="home" />
-          <p className="text-[.5rem] text-center ">Home</p>
+          <p className="text-[.5rem] text-center pt-1">Home</p>
         </div>
         <div className=" text-textPrimary cursor-pointer">
           <MagnifyingGlassIcon className="w-5 h-5  mx-auto " />
-          <p className="text-[.5rem] text-center ">Search</p>
+          <p className="text-[.5rem] text-center pt-1 ">Search</p>
         </div>
         <div className=" text-textSecondary cursor-pointer">
           <img src={Library} className="w-5 h-5  mx-auto" alt="library" />
-          <p className="text-[.5rem] text-center ">Library</p>
+          <p className="text-[.5rem] text-center pt-1">Library</p>
         </div>
         <div className=" text-textSecondary cursor-pointer">
           <UserIcon className="w-5 h-5  mx-auto" />
-          <p className="text-[.5rem] text-center ">Profile</p>
+          <p className="text-[.5rem] text-center pt-1">Profile</p>
         </div>
       </div>
     </div>

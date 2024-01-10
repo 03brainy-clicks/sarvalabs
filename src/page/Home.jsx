@@ -47,7 +47,7 @@ const Home = () => {
           <h2 className="text-[2rem] leading-10 font-bold text-textPrimary">
             Browse all{" "}
           </h2>
-          <div className="grid lg:grid-cols-6 md:grid-cols-4 sm:grid-cols-3 grid-cols-2 gap-6">
+          <div className="grid xl:grid-cols-6 lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-3 grid-cols-2 gap-6">
             {categories.map((category) => {
               return <CategoryCard category={category} key={category.id} />;
             })}
