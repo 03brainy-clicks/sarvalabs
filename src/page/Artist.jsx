@@ -17,7 +17,7 @@ const LikedSongs = () => {
             <HeartIcon className="w-5 h-5 text-textPrimary" />
           </span>
           <img
-            src="src/assets/albums/bomt.png"
+            src="https://raw.githubusercontent.com/03brainy-clicks/sarvalabs/main/src/assets/albums/bomt.png"
             alt=""
             className="w-16 h-16 rounded-full"
           />
